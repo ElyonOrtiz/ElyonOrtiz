@@ -1,6 +1,6 @@
 ## Oi!! Eu sou Elyon 
 
-<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco maiis sobre mim </p>&nbsp;
+<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco mais sobre mim </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gustaaz&theme=radical&mode=weekly" />
