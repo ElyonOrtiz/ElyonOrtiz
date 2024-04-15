@@ -1,8 +1,10 @@
 ## Oi!! Eu sou Elyon 
 
 <p align="center">Seja Bem vindo ao meu github, E conheça um pouco mais sobre mim. Considere também vizualizar
-   ![meu portifólio](https://portifolio2-phi.vercel.app)&nbsp;
-   </p> &nbsp;
+</p> &nbsp;
+
+![meu portifólio](https://portifolio2-phi.vercel.app)&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ElyonOrtiz&theme=radical&mode=weekly" />
@@ -17,7 +19,7 @@
 #### Stack principal:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
