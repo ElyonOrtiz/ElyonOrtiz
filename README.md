@@ -1,6 +1,11 @@
 ## Oi!! Eu sou Elyon 
 
-<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco mais sobre mim. Considere verificar meu portifólio em </p> <https://portifolio2-phi.vercel.app> &nbsp;
+<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco mais sobre mim. Considere também vizualizar  em 
+    <a
+    href=" https://portifolio2-phi.vercel.app">
+    meu portifólio
+    </a>
+   </p> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ElyonOrtiz&theme=radical&mode=weekly" />
