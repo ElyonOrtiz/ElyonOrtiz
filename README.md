@@ -1,6 +1,6 @@
 ## Oi!! Eu sou Elyon 
 
-<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco mais sobre mim. Considere também vizualizar  em 
+<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco mais sobre mim. Considere também vizualizar
     <a
     href=" https://portifolio2-phi.vercel.app">
     meu portifólio
