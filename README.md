@@ -3,7 +3,7 @@
 <p align="center">Seja Bem vindo ao meu github, E conheça um pouco mais sobre mim. Considere também vizualizar
 </p> 
 
-<div align="center>">
+<div align="center">
     <a href="https://portifolio2-phi.vercel.app">
        Meu Portifólio
     </a>
