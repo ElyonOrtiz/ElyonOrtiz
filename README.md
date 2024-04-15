@@ -1,10 +1,7 @@
 ## Oi!! Eu sou Elyon 
 
-<p align="center">Seja Bem vindo ao meu gitHub, E conheça um pouco mais sobre mim. Considere também vizualizar
-    <a
-    href=" https://portifolio2-phi.vercel.app">
-    meu portifólio
-    </a>
+<p align="center">Seja Bem vindo ao meu github, E conheça um pouco mais sobre mim. Considere também vizualizar
+   ![meu portifólio](https://portifolio2-phi.vercel.app)&nbsp;
    </p> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
